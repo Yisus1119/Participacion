@@ -1,0 +1,16 @@
+C:\Users\paraq\Desktop\EjerciciodeHoy\bin\Debug\net5.0\EjerciciodeHoy.exe
+C:\Users\paraq\Desktop\EjerciciodeHoy\bin\Debug\net5.0\EjerciciodeHoy.deps.json
+C:\Users\paraq\Desktop\EjerciciodeHoy\bin\Debug\net5.0\EjerciciodeHoy.runtimeconfig.json
+C:\Users\paraq\Desktop\EjerciciodeHoy\bin\Debug\net5.0\EjerciciodeHoy.runtimeconfig.dev.json
+C:\Users\paraq\Desktop\EjerciciodeHoy\bin\Debug\net5.0\EjerciciodeHoy.dll
+C:\Users\paraq\Desktop\EjerciciodeHoy\bin\Debug\net5.0\ref\EjerciciodeHoy.dll
+C:\Users\paraq\Desktop\EjerciciodeHoy\bin\Debug\net5.0\EjerciciodeHoy.pdb
+C:\Users\paraq\Desktop\EjerciciodeHoy\obj\Debug\net5.0\EjerciciodeHoy.csprojAssemblyReference.cache
+C:\Users\paraq\Desktop\EjerciciodeHoy\obj\Debug\net5.0\EjerciciodeHoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paraq\Desktop\EjerciciodeHoy\obj\Debug\net5.0\EjerciciodeHoy.AssemblyInfoInputs.cache
+C:\Users\paraq\Desktop\EjerciciodeHoy\obj\Debug\net5.0\EjerciciodeHoy.AssemblyInfo.cs
+C:\Users\paraq\Desktop\EjerciciodeHoy\obj\Debug\net5.0\EjerciciodeHoy.csproj.CoreCompileInputs.cache
+C:\Users\paraq\Desktop\EjerciciodeHoy\obj\Debug\net5.0\EjerciciodeHoy.dll
+C:\Users\paraq\Desktop\EjerciciodeHoy\obj\Debug\net5.0\ref\EjerciciodeHoy.dll
+C:\Users\paraq\Desktop\EjerciciodeHoy\obj\Debug\net5.0\EjerciciodeHoy.pdb
+C:\Users\paraq\Desktop\EjerciciodeHoy\obj\Debug\net5.0\EjerciciodeHoy.genruntimeconfig.cache
